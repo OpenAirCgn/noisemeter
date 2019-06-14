@@ -1,4 +1,4 @@
-update=2019 January 08, Tuesday 19:32:12
+update=2019 June 14, Friday 09:56:34
 version=1
 last_client=kicad
 [pcbnew]
@@ -29,4 +29,5 @@ version=1
 version=1
 LibDir=/Users/matthias/Development/Kicad/Libraries;../OpenAir2/Logo
 [eeschema/libraries]
-LibName1=everykey
+LibName1=Noisemeter-rescue
+LibName2=everykey
