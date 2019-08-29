@@ -1,3 +1,3 @@
 (fp_lib_table
-  (lib (name Logo)(type KiCad)(uri /Users/matthias/Development/Kicad/OpenAir2/Logo)(options "")(descr ""))
+  (lib (name Logo)(type KiCad)(uri {KIPRJMOD}/../OpenAir2/Logo)(options "")(descr ""))
 )
